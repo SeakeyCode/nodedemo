@@ -13,6 +13,7 @@
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
     "iconv-lite": "^0.6.2",
+    "mongodb": "^3.5.9",
     "request": "^2.88.2",
     "socket.io": "^2.3.0"
   }
